@@ -35,7 +35,7 @@ Este é um chatbot para o WhatsApp que permite aos clientes fazer pedidos de ref
 1.  **Python:** Certifique-se de ter o Python 3.10+ instalado em seu sistema.
 2.  **Bibliotecas Python:**
     ```bash
-    pip install flask twilio openai python-dotenv aiohttp uvicorn asgiref
+    pip install -r requirements.txt
     ```
 3.  **Conta Twilio:**
     *   Crie uma conta na [Twilio](https://www.twilio.com/).
