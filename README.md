@@ -1,4 +1,4 @@
-## Refrigerantes São Carlos - Chatbot WhatsApp (README)
+## Chatbot WhatsApp (README)
 
 Este é um chatbot para o WhatsApp que permite aos clientes fazer pedidos de refrigerantes da empresa "Refrigerantes São Carlos" de forma automatizada. O chatbot utiliza a API do OpenAI (GPT-4) para processar as mensagens, manter o contexto da conversa e guiar os usuários através de um fluxo de vendas.
 
