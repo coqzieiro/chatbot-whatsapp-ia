@@ -1,0 +1,11 @@
+flask
+twilio
+openai
+python-dotenv
+gspread
+oauth2client
+mapbox
+requests
+aiohttp
+uvicorn
+asgiref
